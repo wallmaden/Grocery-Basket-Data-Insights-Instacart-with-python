@@ -2,7 +2,12 @@
 This repository contains an in-depth analysis of Instacart's grocery basket data to uncover sales patterns and customer behaviors. The project includes data cleaning, segmentation, and visualization to provide actionable insights for targeted marketing strategies and improved sales performance.
 
 ## Objectives
-The goal of this project is to analyze Instacart’s grocery basket data to uncover patterns in customer behavior and sales performance. By identifying key trends such as the busiest shopping times, customer loyalty segments, and product preferences, the analysis provides actionable insights for targeted marketing campaigns. This project aims to help stakeholders optimize ad placements, improve product offerings, and develop effective customer segmentation strategies.
+The goal of this project is to analyze Instacart’s grocery basket data to uncover patterns in customer behavior and sales performance. By identifying key trends such as:
+- The busiest shopping times
+- Customer loyalty segments
+- Product preferences
+
+This analysis provides actionable insights for targeted marketing campaigns. This project aims to help stakeholders optimize ad placements, improve product offerings, and develop effective customer segmentation strategies.
 
 ## Data
 The data used in this project includes open-source datasets provided by Instacart, featuring information on customer orders, product details, and purchasing behaviors. The datasets include key variables such as order times, product categories, departments and customer demographics. All datasets have been cleaned, combined, and prepared for analysis to ensure accurate and meaningful insights.
