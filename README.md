@@ -10,7 +10,12 @@ The goal of this project is to analyze Instacart’s grocery basket data to unco
 This analysis provides actionable insights for targeted marketing campaigns. This project aims to help stakeholders optimize ad placements, improve product offerings, and develop effective customer segmentation strategies.
 
 ## Data
-The data used in this project includes open-source datasets provided by Instacart, featuring information on customer orders, product details, and purchasing behaviors. The datasets include key variables such as order times, product categories, departments and customer demographics. All datasets have been cleaned, combined, and prepared for analysis to ensure accurate and meaningful insights.
+The data used in this project includes open-source datasets provided by Instacart, featuring information on:
+- Customer orders
+- Product details
+- Purchasing behaviors.
+
+The datasets include key variables such as order times, product categories, departments and customer demographics. All datasets have been cleaned, combined, and prepared for analysis to ensure accurate and meaningful insights.
 
 ## Tools
 This project was executed using Python and Jupyter Notebooks as the primary tools for analysis. Key Python libraries utilized include:
