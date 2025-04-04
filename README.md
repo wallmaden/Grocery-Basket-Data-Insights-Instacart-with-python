@@ -1,6 +1,8 @@
 # Data Analyst: Grocery-Basket-Data-Insights-with-python
 This repository contains an in-depth analysis of Instacart's grocery basket data to uncover sales patterns and customer behaviors. The project includes data cleaning, segmentation, and visualization to provide actionable insights for targeted marketing strategies and improved sales performance.
 
+<img src="https://raw.githubusercontent.com/wallmaden/Grocery-Basket-Data-Insights-Instacart-with-python/main/04%20Analysis/Visualizations/python-logo-master-v3-TM.png" alt="Python Logo" width="150"/>
+
 ## Objectives
 The goal of this project is to analyze Instacart’s grocery basket data to uncover patterns in customer behavior and sales performance. By identifying key trends such as:
 - The busiest shopping times
