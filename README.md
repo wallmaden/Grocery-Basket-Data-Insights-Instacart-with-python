@@ -32,6 +32,7 @@ The project focuses on:
 | Folder | Description |
 |--------|-------------|
 | `01 Project Management` | Planning and project scope documentation |
+| `02 Sample Data` | Original Data sets & Sample of Prepared .pkl + .xls files|
 | `03 Scripts` | Python scripts used for data cleaning and analysis |
 | `04 Analysis/Visualizations` | Visual outputs and insights |
 | `05 Sent to Client` | Final deliverables for presentation or stakeholders |
