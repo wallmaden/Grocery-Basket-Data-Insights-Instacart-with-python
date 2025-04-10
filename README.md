@@ -67,9 +67,6 @@ Business & Data Analyst
 
 ---
 
-> _"Behind every grocery order is a customer story — this project uses data to help businesses listen better."_  
-
-
 ## Resources
 Instacart Open Datasets: Accessed via Kaggle and other open-source platforms for grocery shopping analysis.
 Project Deliverables: Includes visualizations, final reports, and analysis methodologies designed to address stakeholder needs.
